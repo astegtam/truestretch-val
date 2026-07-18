@@ -56,7 +56,7 @@ Open the **NVIDIA Control Panel** (or your GPU's respective software) to configu
 
 Once your system resolution is ready, you are good to run the script:
 
-1. Launch the Python script.
+1. Launch the bat.
 2. Enter your custom Width and Height values when prompted.
 3. Use the designated hotkeys to toggle.
 
