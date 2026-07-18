@@ -12,7 +12,7 @@ This project is created strictly for **educational and research purposes** to de
 
 ## 🛠️ Requirements & Setup Guide
 
-This is currently the only working true stretch method available, alternative to the 1:45 ratio method (e.g., 1280x882, 1280x880, 1440x990). 
+This is currently the only working proper true stretch method available.
 
 ### Step 1: Monitor Configuration
 To utilize this method, you must first disable your secondary/main monitor virtual entries through the **Device Manager**. 
