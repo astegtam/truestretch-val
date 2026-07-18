@@ -52,15 +52,23 @@ Open the **NVIDIA Control Panel** (or your GPU's respective software) to configu
 
 ---
 
-## 🚀 Running the Script
+---
 
-Once your system resolution is ready, you are good to run the script:
+## 🚀 How to Use & Run the Script
 
-1. Launch the bat.
-2. Enter your custom Width and Height values when prompted.
-3. Use the designated hotkeys to toggle.
+Once your custom system resolution is ready, follow these exact steps to make the stretch method work correctly in-game:
 
-> 💡 **Troubleshooting Tip:** If you have just installed Python freshly on your system, you might need to run the script twice or restart your computer for the environment variables to update properly.
+### Important In-Game Steps:
+1. Launch Valorant and make sure your in-game display mode is set to **Windowed Fullscreen (Pencereli Tam Ekran)**.
+2. Start a match. Wait until you actually spawn in and are able to move your character around.
+3. Once you can move, press **`F8`** to trigger the stretch resolution mode.
+4. **When the match ends:** Press **`F8`** again to restore your original native resolution.
+5. **Repeat every match:** You must repeat this process every time you enter a new match, otherwise the engine won't apply the stretch properly. 
+
+> ⚠️ *Note: It might feel a bit annoying to toggle it every match, but this is currently the most practical and stable workaround available after the recent patches.*
+
+### Troubleshooting Tip:
+If you have just installed Python freshly on your system, you might need to run the script twice or restart your computer for the environment variables and shortcut hooks to update properly.
 
 ---
 
