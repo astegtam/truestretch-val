@@ -59,7 +59,7 @@ Open the **NVIDIA Control Panel** (or your GPU's respective software) to configu
 Once your custom system resolution is ready, follow these exact steps to make the stretch method work correctly in-game:
 
 ### Important In-Game Steps:
-1. Launch Valorant and make sure your in-game display mode is set to **Windowed Fullscreen (Pencereli Tam Ekran)**.
+1. Launch Valorant and make sure your in-game display mode is set to **Windowed Fullscreen**.
 2. Start a match. Wait until you actually spawn in and are able to move your character around.
 3. Once you can move, press **`F8`** to trigger the stretch resolution mode.
 4. **When the match ends:** Press **`F8`** again to restore your original native resolution.
